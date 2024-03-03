@@ -78,7 +78,6 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
   <img src="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true" />
 </picture>  -->
 | <a href="https://github.com/Kunal-IIT-JMU/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Kunal-IIT-JMU/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-IIT-JMU&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=85"/>
