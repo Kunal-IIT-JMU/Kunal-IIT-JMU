@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kunal-IIT-JMU&height=150&section=header"/>
 </p>
-
-<br>
   <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
