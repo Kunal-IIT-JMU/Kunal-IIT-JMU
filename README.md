@@ -25,6 +25,7 @@
   <img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" hspace = "20"/>
 </a>
 </p>
+<br>
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
