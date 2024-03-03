@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://www.linkedin.com/in/%20kunal-sharma-iitjammu">
-  <img height="50" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
 </a>
