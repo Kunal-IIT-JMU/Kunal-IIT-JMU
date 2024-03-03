@@ -67,7 +67,7 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 </p>
 <br>
 <p>
-<picture align = "center">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true&theme=light"
     media="(prefers-color-scheme: dark)"
@@ -76,7 +76,7 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
     srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true" align = "center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true" width = "350"/>
 </picture>
 <a href="https://github.com/Kunal-IIT-JMU/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-IIT-JMU&layout=compact&theme=buefy&hide_border=true" height = "196" width = "450" align = "center"/></a>
 </p>
