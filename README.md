@@ -52,11 +52,11 @@ academic_excellence:
     "19042 All India Rank in Joint Entrance Examination Mains (JEE MAINS) 2023"
     "7855 All India Rank in Joint Entrance Examination Advanced (JEE ADVANCED) 2023"
 
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2024 Goals: ["learn at least 5-10 new Technologies. , Improve my Codeforces and Leetcode Ratings"]
 hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 ```
   
 ---  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,150:FFF1DC&height=100&section=footer"/>
 </p>
