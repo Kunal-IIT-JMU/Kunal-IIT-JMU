@@ -77,6 +77,7 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-IIT-JMU)](https://github.com/Kunal-IIT-JMU/github-readme-stats)
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=85"/>
