@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kunal-IIT-JMU&height=150&section=header"/>
 </p>
-<p align = "left">
+<p align = "center">
 <br>
 <br>
-<img hspace = "98" >
 <a href="https://www.instagram.com/ks_iitjmu/">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Instagram_logo.png" hspace = "20"/>
 </a>
