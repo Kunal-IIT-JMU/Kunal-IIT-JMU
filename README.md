@@ -8,6 +8,6 @@
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
 </a>
 <a href = "https://codeforces.com/profile/kunal.iit.jmu">
-  <img height = "50" src = "https://e7.pngegg.com/pngimages/1010/961/png-clipart-white-and-red-next-and-previous-logo-computer-icons-source-code-html-coding-search-engine-optimization-text.png"/>
+  <img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png"/>
 </a>
 </p>
