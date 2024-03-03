@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kunal-IIT-JMU&height=150&section=header"/>
 </p>
-<p align = "center">
+
 <br>
   <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
+<p align = "center">
 <br>
 <a href="https://www.instagram.com/ks_iitjmu/">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Instagram_logo.png" hspace = "20"/>
