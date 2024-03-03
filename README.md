@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:87CEEB,100:FFF1DC&text=Kunal-IIT-JMU&height=150&section=header&fontColor=808080"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Kunal-IIT-JMU&height=150&section=header"/>
 </p>
 <h1 align = "center">
   Hi, I am Kunal Sharma from IIT JAMMU Welcome to My Github Profile!!
@@ -83,5 +83,5 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 </p>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=85&fontColor=808080"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=85"/>
 </p>
