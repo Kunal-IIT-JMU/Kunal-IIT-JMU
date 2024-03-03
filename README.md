@@ -10,4 +10,13 @@
 <a href = "https://codeforces.com/profile/kunal.iit.jmu">
   <img height = "50" src = "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" hspace = "20"/>
 </a>
+<a href = "https://codeforces.com/profile/kunal.iit.jmu">
+  <img height = "50" src = "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" hspace = "20"/>
+</a>
+<a href = "https://codeforces.com/profile/kunal.iit.jmu">
+  <img height = "50" src = "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" hspace = "20"/>
+</a>
+<a href = "https://codeforces.com/profile/kunal.iit.jmu">
+  <img height = "50" src = "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" hspace = "20"/>
+</a>
 </p>
