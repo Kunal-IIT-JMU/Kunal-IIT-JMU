@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&text=Kunal%20Sharma%20IIT%20JAMMU&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=51&animation=twinkling&fontAlignY=50&stroke=111111&strokeWidth=2&rotate=0&fontSize=65&desc=Lets%20Connect%20and%20have%20a%20Chat%20%20💬%20&descAlign=50&descAlignY=100&descSize=38)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&text=Kunal-Sharma-IIT-JMU&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=51&animation=twinkling&fontAlignY=50&stroke=111111&strokeWidth=2&rotate=0&fontSize=65&desc=Lets%20Connect%20and%20have%20a%20Chat%20%20💬%20&descAlign=50&descAlignY=100&descSize=38)
 
 <p align = "left">
 <img hspace = "98">
