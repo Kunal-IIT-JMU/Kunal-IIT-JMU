@@ -58,5 +58,5 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
   
 ---  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,150:FFF1DC&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&height=150&section=footer"/>
 </p>
