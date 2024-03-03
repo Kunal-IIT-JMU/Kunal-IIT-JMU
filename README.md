@@ -65,6 +65,19 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />  
 </p>
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true" />
+</picture>
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=85"/>
 </p>
