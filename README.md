@@ -30,37 +30,30 @@
 
 ```yaml
 name: Kunal Sharma
+
 located_in: IIT Jammu, Jammu And Kashmir, India
 current_job: Student pursuing BTech in Mathematics and Computing from IIT Jammu
+
 education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+    "High School Certificate(Class 10th CBSE) From HVM Convent Sr. Sec. School, Ludhiana",
+    "Secondary Education(Class 12th CBSE NON MEDICAL) from Narayana E-Techno School, Ludhiana",
+    "Coaching For JEE MAINS 2023 AND JEE ADVANCE 2023 from Narayana CO Sindhu Bhavan, Gurugram",
+    "Bachelor's in Mathematics and Computing from Indian Institute of Technology Jammu",
 
 fields_of_interests:
-  [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
+    "Competitive Programming"
+    "App Development"
+    "Game Development"
+
+academic_excellence:
+    "95.5% marks in All India Secondary School Examination also knowm as Class 10 Board Exams"
+    "94% marks in All India Senior School Certificate Examination also known as Class 12 Board Exams"
+    "19042 All India Rank in Joint Entrance Examination Mains (JEE MAINS) 2023"
+    "7855 All India Rank in Joint Entrance Examination Advanced (JEE ADVANCED) 2023"
+
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 ```
   
 ---  
