@@ -1,5 +1,5 @@
 <p align = "center">
-  <img scr = "https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img scr = "https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Hey%20Everyone%20👋&fontAlignY=65&stroke=111111&strokeWidth=2"/>
 </p>
 <p align = "center">
 <a href="https://www.instagram.com/ks_iitjmu/">
