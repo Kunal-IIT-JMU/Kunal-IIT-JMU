@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kunal-IIT-JMU&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kunal-IIT-JMU&height=150&section=headerfontcolour="#000000"/>
 </p>
 <h1 align = "center">
   Hi, I am Kunal Sharma from IIT JAMMU Welcome to My Github Profile!!
