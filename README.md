@@ -68,7 +68,7 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true&theme=light"
     media="(prefers-color-scheme: dark)"
   />
   <source
