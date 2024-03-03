@@ -29,9 +29,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Kunal Sharma
+located_in: IIT Jammu, Jammu And Kashmir, India
+current_job: Student pursuing BTech in Mathematics and Computing from IIT Jammu
 education:
   [
     "Self-Taught Developer and Designer",
