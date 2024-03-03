@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 <p align = "center">
 <a href="https://www.instagram.com/ks_iitjmu/">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Instagram_logo.png"/>
