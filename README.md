@@ -58,5 +58,5 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
   
 ---  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=65"/>
 </p>
