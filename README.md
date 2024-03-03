@@ -25,3 +25,6 @@
   <img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" hspace = "20"/>
 </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
