@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20!!&height=150&section=header"/>
 </p>
+<h1 align = "center">
+  Hi, I am Kunal Sharma from IIT JAMMU Welcome to My Github Profile!!
+</h1>
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
