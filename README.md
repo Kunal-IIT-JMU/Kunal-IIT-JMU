@@ -66,7 +66,7 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="45" height="45" />  
 </p>
 <br>
-
+<p align = centre>
 <picture align = left>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true&theme=light"
@@ -78,8 +78,8 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true" align = "center" height = "200" width = "410"/>
 </picture>
-<a href="https://github.com/Kunal-IIT-JMU/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-IIT-JMU&layout=compact&theme=buefy&hide_border=true" height = "200" width = "410" align = "center"/></a>
-
+<a href="https://github.com/Kunal-IIT-JMU/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-IIT-JMU&layout=compact&theme=buefy&hide_border=true" height = "210" width = "410" align = "center"/></a>
+</p>
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFF1DC&text=Thank%20You!!&height=150&section=footer&fontAlignY=85"/>
