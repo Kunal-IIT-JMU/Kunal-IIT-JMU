@@ -66,8 +66,8 @@ hobbies: ["Gaming", "Music", "CarrumBoard", "Art", "Travelling"]
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="45" height="45" />  
 </p>
 <br>
-<p align = "centre">
-<picture>
+<p align = "center" >
+<picture >
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kunal-IIT-JMU&show_icons=true&theme=light"
     media="(prefers-color-scheme: dark)"
