@@ -10,7 +10,7 @@
 <p align = "center">
 <br>
 <a href="https://www.instagram.com/ks_iitjmu/">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Instagram_logo.png" hspace = "20"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" hspace = "20"/>
 </a>
 <a href = "https://www.facebook.com/profile.php?id=100094096655542">
   <img height = "50" src = "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png?20210818083032" hspace = "20"/>
